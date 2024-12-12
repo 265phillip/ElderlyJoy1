@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/bottom_home"
+        android:title="Home"
+        android:icon="@drawable/home"/>
+
+    <item
+        android:id="@+id/bottom_messages"
+        android:title="Messages"
+        android:icon="@drawable/messages"/>
+
+    <item
+        android:id="@+id/bottom_games"
+        android:title="Games"
+        android:icon="@drawable/games"/>
+    <item
+        android:id="@+id/nav_settings"
+        android:title="Settings"
+        android:icon="@drawable/settings"/>
+
+</menu>

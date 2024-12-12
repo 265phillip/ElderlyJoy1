@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "553575755210",
+    "project_id": "elderjoy1-50308",
+    "storage_bucket": "elderjoy1-50308.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553575755210:android:a2d9c2153d73941ea17333",
+        "android_client_info": {
+          "package_name": "com.phillipkaundeni265.ElderJoy1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAer7lkT9_vxjevVHLDw_58eBbddpCqjJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

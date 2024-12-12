@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view">
+
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_exercises"
+            android:icon="@drawable/exercises"
+            android:title="Exercises"/>
+
+        <item
+            android:id="@+id/nav_notifications"
+            android:icon="@drawable/notifications"
+            android:title="Notifications"/>
+        <item
+            android:id="@+id/bottom_profile"
+            android:title="Profile"
+            android:icon="@drawable/person"/>
+
+
+    </group>
+
+
+</menu>
